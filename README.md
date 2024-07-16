@@ -4,8 +4,7 @@ System administrator with more than 4 years of experience in providing excellent
 📫 Reach me out!
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/roman-strypa-b4623a205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roman-strypa-b4623a205/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/romanstripa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="romanstripa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roman-strypa-b4623a205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roman-strypa-b4623a205" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
