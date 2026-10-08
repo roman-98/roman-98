@@ -1,16 +1,17 @@
 # Hi 👋, I'm Roman</h1>
 <p>
-I became interested in cloud technologies and development at university, enjoying the challenge of solving technical problems related to network configuration, software installation, and operating system upgrades since I began my career as a system administrator. My passion for IT started when I got my first job in this role. I actively sought out information, particularly on YouTube, where I saved videos on various technical topics and read articles about software installation, creating bootable USB drives, computer networks, and Linux. This led me to experiment with programming; I started with Python, using PyCharm and exploring PostgreSQL to create tables. I even developed a Telegram bot to search for books in a library.
+Network Engineer / Network Administrator with a strong background in network infrastructure, monitoring, and technical support. My interest in networking began at university and grew through hands-on experience as a system administrator, where I worked with network configuration, operating systems, and Linux-based environments.
 </p>
 <p>
-My interest in Docker and containerization opened my eyes to DevOps, reinforcing my desire to grow in this field. While working at Bader Ukraine, my enthusiasm for IT, particularly cloud technologies, intensified. I engaged with infrastructure and networks, performed Help Desk tasks, and realized the impact my IT team had on production, which motivated me to excel. During this time, I learned Go and explored web development.
+I have professional experience working at an ISP as a monitoring engineer and network engineer, where I developed solid knowledge of IP addressing, routing and switching, network protocols, and infrastructure troubleshooting. I worked with monitoring systems such as Zabbix, supported enterprise and legal clients, and resolved network and infrastructure incidents in production environments.</p>
+<p>
+I also participated in building and supporting computer networks in residential complexes, including wired and wireless networks. My responsibilities included working with CCTV systems, Akuvox intercoms, and understanding real-world deployment of network and wireless infrastructure.
 </p>
 <p>
-In my roles as a monitoring engineer and network engineer at an ISP, I deepened my knowledge of networks, infrastructure, protocols, IP addressing, routing and switching. I also dealt with tasks related to CCTV and Akuvox intercoms and helped build a computer network in a residential complex. Interacting with legal clients as a support engineer provided me with valuable experience in solving infrastructure and network issues. I worked with the Zabbix monitoring system, which piqued my interest in cloud technologies. This led me to apply for the AWS re/Start program from Generation, where I gained experience with AWS services and enhanced my behavioral and communication skills.
+Previously, I worked in IT infrastructure and Help Desk roles, which helped me build strong communication skills and a clear understanding of how critical stable networking is for business operations. I am comfortable collaborating with teams, supporting end users, and taking responsibility for network reliability and availability.
 </p>
 <p>
-As a DevOps Engineer, I aim to refine my communication skills and further develop my programming expertise. My extensive experience as a system administrator will serve as a solid foundation as I transition into software development. I have focused on Linux, containerization, orchestration with Docker and Kubernetes, and CI/CD pipelines, including Jenkins, GitHub Actions, and ArgoCD. Working with infrastructure as code, particularly Terraform, is also an integral part of my technical skill set. I am eager to join a team where I can demonstrate my knowledge and skills while launching my professional career in software development. Beyond just performing my job, I aspire to learn as much as possible to become a proficient DevOps Engineer.
-</p>
+I am motivated to continue growing as a Network Engineer / Network Administrator with a strong interest in ISP and data center environments. I am particularly interested in designing and maintaining campus networks using Aruba, Juniper, Cisco, MikroTik and Ubiquiti solutions. I am eager to join a team where I can apply my networking expertise, learn from experienced engineers, and contribute to building scalable, reliable, and well-monitored network infrastructures.</p>
 
 📫 Reach me out!
 
