@@ -3,9 +3,10 @@
 Network Engineer / Network Administrator with a strong background in network infrastructure, monitoring, and technical support. My interest in networking began at university and grew through hands-on experience as a system administrator, where I worked with network configuration, operating systems, and Linux-based environments.
 </p>
 <p>
-I have professional experience working at an ISP as a monitoring engineer and network engineer, where I developed solid knowledge of IP addressing, routing and switching, network protocols, and infrastructure troubleshooting. I worked with monitoring systems such as Zabbix, supported enterprise and legal clients, and resolved network and infrastructure incidents in production environments.</p>
+I have professional experience working as a monitoring and network engineer, where I developed solid knowledge of IP addressing, routing and switching, network protocols, and infrastructure troubleshooting. I worked with monitoring systems, supported enterprise and legal clients, and resolved network and infrastructure incidents in production environments.
+</p>
 <p>
-I also participated in building and supporting computer networks in residential complexes, including wired and wireless networks. My responsibilities included working with CCTV systems, Akuvox intercoms, and understanding real-world deployment of network and wireless infrastructure.
+I also participated in building and supporting computer networks in residential complexes, including wired and wireless networks. My responsibilities included working with CCTV systems, intercoms, and understanding real-world deployment of network and wireless infrastructure.
 </p>
 <p>
 Previously, I worked in IT infrastructure and Help Desk roles, which helped me build strong communication skills and a clear understanding of how critical stable networking is for business operations. I am comfortable collaborating with teams, supporting end users, and taking responsibility for network reliability and availability.
